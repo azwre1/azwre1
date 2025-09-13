@@ -4,7 +4,7 @@ I'm **azwre1**. I love exploring new technologies and creating efficient solutio
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,linux,windows)](https://skillicons.dev)
 
 
 ## Top Projects
