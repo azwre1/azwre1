@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## Hi there! 👋
 
 I'm **azwre1**. I love exploring new technologies and creating efficient solutions that make a difference!
@@ -25,3 +27,5 @@ I'm **azwre1**. I love exploring new technologies and creating efficient solutio
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azwre1&show_icons=true&theme=radical)
 
 ## For those who come after 
+
+</div>
