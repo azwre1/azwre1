@@ -8,6 +8,7 @@ I'm **azwre1**. I love exploring new technologies and creating efficient solutio
     <img src="https://skillicons.dev/icons?i=js,html,css,docker,linux,windows" />
   </a>
 </p>
+
 ## Top Projects
 
 - [SurveySite](https://github.com/azwre1/SurveySite)
