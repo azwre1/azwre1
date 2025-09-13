@@ -5,8 +5,11 @@ I'm **azwre1**. I love exploring new technologies and creating efficient solutio
 ## Skills & Technologies
 
 <p align="center">[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,linux,windows)](https://skillicons.dev)</p>
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim"](https://skillicons.dev/icons?i=js,html,css,docker,linux,windows)](https://skillicons.dev)" />
+  </a>
+</p>
 ## Top Projects
 
 - [SurveySite](https://github.com/azwre1/SurveySite)
