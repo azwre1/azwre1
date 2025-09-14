@@ -18,7 +18,7 @@ I'm **azwre1**👋. I love exploring new technologies and creating efficient sol
 
 🌟 **Public Repositories:** 4  
 👥 **Followers:** 1  
-➡️ **Following:** 1  
+➡️ **Following:** 2  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azwre1&show_icons=true&theme=radical)
 
