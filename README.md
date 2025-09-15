@@ -3,7 +3,7 @@ I'm **azwre1**👋. I love exploring new technologies and creating efficient sol
 ## Skills & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,docker,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,docker,git,linux,windows" />
   </a>
 </p>
 
