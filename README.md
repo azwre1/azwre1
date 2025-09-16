@@ -1,4 +1,5 @@
-I'm **azwre1**👋. I love exploring new technologies and creating efficient solutions that make a difference!
+# CS Student and Tech Enthusiast
+I'm **azwre1**👋. I love exploring new technologies and everything computer related!
 
 ## Skills & Technologies
 <p align="center">
