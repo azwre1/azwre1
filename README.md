@@ -24,29 +24,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" alt="" width="100%" />
 </p>
 
-## Top Projects
-
-<p align="center">
-  <a href="https://github.com/azwre1/SurveySite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azwre1&repo=SurveySite&theme=radical&hide_border=true" alt="" />
-  </a>
-  <a href="https://github.com/azwre1/GandhiSite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azwre1&repo=GandhiSite&theme=radical&hide_border=true" alt="" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/azwre1/Sito">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azwre1&repo=Sito&theme=radical&hide_border=true" alt="" />
-  </a>
-  <a href="https://github.com/azwre1/Sito-Crotone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azwre1&repo=Sito-Crotone&theme=radical&hide_border=true" alt="" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" alt="" width="100%" />
-</p>
 
 ## GitHub Stats
 
