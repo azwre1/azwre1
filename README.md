@@ -2,7 +2,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+it's+Alex%2C+aka+azwre;CS+Student+and+Tech+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+it's+Alex%2C+aka+azwre;CS+Student+and+Tech+Enthusiast)](https://git.io/typing-svg)
+</p>
 
 <p align="center">
   I'm <strong>azwre1</strong> &#10024; I love exploring new technologies and everything computer related!
@@ -24,9 +26,9 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" alt="" width="100%" />
 </p>
 
-<div>
-    <img src=".terminal.gif" alt="About Me Terminal GIF"/>
-</div>
+<p align="center">
+  <img src="./terminal.gif" alt="About Me Terminal GIF" width="600" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azwre1&show_icons=true&theme=radical&hide_border=true" alt="" />
