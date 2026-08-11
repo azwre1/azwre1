@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="" width="100%" />
-</p>
+<!-- Hey there! -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-<h1 align="center">CS Student and Tech Enthusiast</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+it's+Alex%2C+aka+azwre;CS+Student+and+Tech+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
   I'm <strong>azwre1</strong> &#10024; I love exploring new technologies and everything computer related!
@@ -26,14 +24,9 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" alt="" width="100%" />
 </p>
 
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fazwre1&query=%24.public_repos&label=%F0%9F%93%A6&color=ff69b4&style=for-the-badge&logo=github&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fazwre1&query=%24.followers&label=%F0%9F%91%A5&color=9f7aea&style=for-the-badge&logo=github&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fazwre1&query=%24.following&label=%F0%9F%91%AB&color=00c6ff&style=for-the-badge&logo=github&logoColor=white" alt="" />
-</p>
+<div>
+    <img src=".terminal.gif" alt="About Me Terminal GIF"/>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azwre1&show_icons=true&theme=radical&hide_border=true" alt="" />
@@ -57,4 +50,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/> 
